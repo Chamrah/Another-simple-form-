@@ -1,0 +1,16 @@
+table{
+    border: groove aqua;
+    border-radius: 70px;
+    padding: 20px;
+    background-color: lightcyan;
+}
+input{
+    background-color: rgb(234, 234, 2);
+    border-radius: 10px;
+    border-color: green red ;
+}
+.btn{
+    background-color: rgb(233, 233, 233);
+    border: solid rgb(221, 221, 221);
+    border-radius: 2px;
+}
